@@ -8,7 +8,7 @@
 
 - Họ tên:
 - MSSV:
-- Mã đề (A/B/C):
+- Mã đề (A/B/C):B
 - Email:
 - Link repository:
 - Giờ bắt đầu:
