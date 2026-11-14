@@ -44,25 +44,26 @@ Bạn đặt keyframe nhiều nhất ở người nào? Vì sao (người đó r
 
 ## 3. Đoạn bị che (CP2)
 
-Người bị che: `P1 (Track 0)` *(Chọn làm mẫu, bạn có thể bổ sung ảnh cho người này)*
+## 3. Đoạn bị che (CP2)
+
+Người bị che: `P1 (Track 0)`
 
 | Mốc | Frame |
 |---|---:|
-| Bắt đầu bị che một phần (bật `occluded`) | Trước 42 |
+| Bắt đầu bị che một phần (bật `occluded`) | 0 |
 | Mất hẳn (bật `outside`) | 42 |
 | Hiện lại (tắt `outside`) | 49 |
-| Thấy rõ trở lại (tắt `occluded`) | Sau 49 |
+| Thấy rõ trở lại (tắt `occluded`) | 55 |
 
-- Thời gian khuất hẳn: **7** frame = **~0.23** giây (với 30fps).
+- Thời gian khuất hẳn: **7** frame = **~0.23** giây.
 - Quyết định: **Giữ cùng ID**.
-- Lý do: Thời gian khuất rất ngắn (7 frame, nhỏ hơn ngưỡng 60 frame). Khi xuất hiện lại ở frame 49, ngoại hình của người này hoàn toàn trùng khớp với trước khi khuất, hướng di chuyển và quỹ đạo chuyển động cũng logic với tốc độ trước đó.
+- Lý do: Người này chỉ bị khuất hẳn trong một thời gian rất ngắn (7 frame), thấp hơn rất nhiều so với ngưỡng tối đa 60 frame. Khi đối chiếu ngoại hình ở frame 41 (trước khi mất) và frame 49 (lúc xuất hiện lại) thì hoàn toàn trùng khớp. Vị trí hiện lại cũng rất logic, đúng với quỹ đạo đi thẳng và tốc độ di chuyển trước khi bị che.
 
 Ảnh chụp màn hình:
 
 ![Trước khi che](images/che_1_truoc.png)
-![Giữa đoạn che, thấy cờ trên panel object](images/che_2_giua.png)
+![Giữa đoạn che bị mất hẳn](images/che_2_giua.png)
 ![Sau khi hiện lại, cùng ID](images/che_3_sau.png)
-
 
 ## 4. Tự review ID (CP3)
 
