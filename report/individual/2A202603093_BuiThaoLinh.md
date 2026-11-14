@@ -80,7 +80,7 @@ Tổng hợp số lỗi theo loại:
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Lỗi nào chỉ lượt 2 (theo cảnh) mới thấy, lượt 1 (theo người) không thấy? Vì sao?
-> (Nếu có lỗi ở lượt nháp) Lỗi `drift` hoặc BB chưa khít thường dễ thấy hơn ở lượt 2 vì khi nhảy 10 frame quan sát toàn cảnh, sự tương quan giữa các BB và việc BB bị lẹm vào nhau giữa nhiều người đi gần nhau sẽ lộ rõ hơn so với khi chỉ focus vào một người duy nhất ở lượt 1.
+Khong co loi.
 
 ## 5. File xuất và kết quả tự kiểm (CP4)
 
