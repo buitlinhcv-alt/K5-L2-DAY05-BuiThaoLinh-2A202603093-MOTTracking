@@ -6,13 +6,13 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
+- Họ tên: Bui Thao Linh
+- MSSV: 2A202603093
 - Mã đề (A/B/C):B
-- Email:
-- Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Email:26ai.linhbt@vinuni.edu.vn
+- Link repository:https://github.com/buitlinhcv-alt/K5-L2-DAY05-BuiThaoLinh-2A202603093-MOTTracking
+- Giờ bắt đầu: 16h30
+- Giờ kết thúc: 19h30
 
 ## 1. Xem trước đoạn video (CP0)
 
