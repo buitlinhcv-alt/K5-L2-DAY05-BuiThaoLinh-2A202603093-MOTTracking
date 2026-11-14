@@ -62,7 +62,7 @@ Người bị che: `P1 (Track 0)` *(Chọn làm mẫu, bạn có thể bổ sung
 ![Trước khi che](images/che_1_truoc.png)
 ![Giữa đoạn che, thấy cờ trên panel object](images/che_2_giua.png)
 ![Sau khi hiện lại, cùng ID](images/che_3_sau.png)
-*(Ghi chú: Đừng quên chụp 3 ảnh màn hình và lưu vào thư mục `images` như yêu cầu)*
+
 
 ## 4. Tự review ID (CP3)
 
